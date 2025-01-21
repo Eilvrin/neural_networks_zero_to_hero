@@ -169,3 +169,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+GPT/encoder.json
+GPT/vocab.bpe
+GPT/input.txt
+GPT/more.txt
+GPT/tok400.model
+GPT/tok400.vocab
+GPT/toy.txt
+
+GPT2/edu_fineweb10B
+GPT2/hellaswag
+GPT2/log
+GPT2/input.txt
